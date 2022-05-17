@@ -1,0 +1,8 @@
+HTML and CSS projects
+
+in this project, i will use css and html language to creat a website to share my ideas on how to start a business
+Languages:
+1- CSS
+2- HTML
+3- Python
+4- Java
